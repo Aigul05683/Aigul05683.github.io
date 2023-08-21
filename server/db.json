@@ -1,0 +1,83 @@
+{
+    "users": [
+      {
+        "name": "web1",
+        "mon": {
+          "sub1": "Math",
+          "sub2": "Eng",
+          "sub3": "KG",
+          "sub4": "Biology"
+        },
+        "tue": {
+          "sub1": "MathT",
+          "sub2": "EngT",
+          "sub3": "KGT",
+          "sub4": "BiologyT"
+        },
+        "wed": {
+          "sub1": "Math",
+          "sub2": "Eng",
+          "sub3": "KG",
+          "sub4": "Biology"
+        },
+        "thu": {
+          "sub1": "MathT",
+          "sub2": "EngT",
+          "sub3": "KGT",
+          "sub4": "BiologyT"
+        },
+        "fri": {
+        "sub1": "Math",
+        "sub2": "Eng",
+        "sub3": "KG",
+        "sub4": "Biology"
+      },
+        "sat": {
+          "sub1": "MathS",
+          "sub2": "EngS",
+          "sub3": "KGS",
+          "sub4": "BiologyS"
+        }
+      },
+      {
+        "name": "web2",
+        "mon": {
+          "sub1": "Web2 Math",
+          "sub2": "Web2 Eng",
+          "sub3": "Web2 KG",
+          "sub4": "Web2 Biology"
+        },
+        "tue": {
+          "sub1": "Web2 Math",
+          "sub2": "Web2 Eng",
+          "sub3": "Web2 KG",
+          "sub4": "Web2 Biology"
+        },
+        "wed": {
+          "sub1": "Web2 Math",
+          "sub2": "Web2 Eng",
+          "sub3": "Web2 KG",
+          "sub4": "Web2 Biology"
+        },
+        "thu": {
+          "sub1": "Web2 Math",
+          "sub2": "Web2 Eng",
+          "sub3": "Web2 KG",
+          "sub4": "Web2 Biology"
+        },
+        "fri": {
+          "sub1": "Web2 Math",
+          "sub2": "Web2 Eng",
+          "sub3": "Web2 KG",
+          "sub4": "Web2 Biology"
+        },
+        "sat": {
+          "sub1": "Web2 Math",
+          "sub2": "Web2 Eng",
+          "sub3": "Web2 KG",
+          "sub4": "Web2 Biology"
+        }
+      }
+    ]
+}
+
